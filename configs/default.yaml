@@ -1,0 +1,11 @@
+# Training defaults
+epochs: 15
+batch_size: 128
+lr: 0.001
+weight_decay: 0.0005
+momentum: 0.9
+patience: 5
+seed: 42
+amp: true
+num_workers: 2
+data_root: ./data_cache
