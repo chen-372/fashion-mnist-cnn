@@ -1,0 +1,39 @@
+Epoch 01 | train loss 0.5502 acc 0.7966 | val loss 0.3897 acc 0.8603
+Epoch 02 | train loss 0.3757 acc 0.8635 | val loss 0.3499 acc 0.8687
+Epoch 03 | train loss 0.3329 acc 0.8787 | val loss 0.3249 acc 0.8792
+Epoch 04 | train loss 0.3079 acc 0.8899 | val loss 0.2626 acc 0.9027
+Epoch 05 | train loss 0.2902 acc 0.8954 | val loss 0.2588 acc 0.9060
+Epoch 06 | train loss 0.2788 acc 0.9011 | val loss 0.2603 acc 0.9045
+Epoch 07 | train loss 0.2735 acc 0.9026 | val loss 0.2830 acc 0.8955
+Epoch 08 | train loss 0.2627 acc 0.9074 | val loss 0.2813 acc 0.8978
+Epoch 09 | train loss 0.2534 acc 0.9092 | val loss 0.2363 acc 0.9143
+Epoch 10 | train loss 0.2506 acc 0.9106 | val loss 0.2507 acc 0.9048
+Epoch 11 | train loss 0.2437 acc 0.9127 | val loss 0.2440 acc 0.9110
+Epoch 12 | train loss 0.2357 acc 0.9166 | val loss 0.2456 acc 0.9120
+Epoch 13 | train loss 0.2339 acc 0.9170 | val loss 0.2309 acc 0.9155
+Epoch 14 | train loss 0.2302 acc 0.9189 | val loss 0.2249 acc 0.9163
+Epoch 15 | train loss 0.2262 acc 0.9203 | val loss 0.2272 acc 0.9197
+Test accuracy: 0.9216
+Artifacts saved in: F:\Dev\ML_AI_Projects\fashion-mnist-cnn-pytorch\outputs
+
+                     precision    recall  f1-score   support
+
+ T-shirt/top     0.8619    0.8800    0.8709      1000
+     Trouser     0.9929    0.9750    0.9839      1000
+    Pullover     0.9298    0.8480    0.8870      1000
+       Dress     0.8620    0.9560    0.9066      1000
+        Coat     0.8939    0.9100    0.9019      1000
+      Sandal     0.9741    0.9770    0.9755      1000
+       Shirt     0.7931    0.7550    0.7736      1000
+     Sneaker     0.9438    0.9740    0.9587      1000
+         Bag     0.9880    0.9890    0.9885      1000
+  Ankle boot     0.9814    0.9520    0.9665      1000
+
+    accuracy                        	    0.9216     10000
+   macro avg     0.9221    0.9216    0.9213     10000
+weighted avg     0.9221    0.9216    0.9213     10000
+
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+
+
+
